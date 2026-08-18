@@ -1,5 +1,7 @@
 # Discord Album Notifier
 
+[![Album Notifier](https://github.com/lorentzben/Discord-Album-Notifier/actions/workflows/notify.yml/badge.svg)](https://github.com/lorentzben/Discord-Album-Notifier/actions/workflows/notify.yml)
+
 Automatically posts your [1001 Albums Generator](https://1001albumsgenerator.com) daily album to a Discord channel — with group stats, streaming links, and your all-time favorites.
 
 > Listed as a third-party app on 1001albumsgenerator.com
